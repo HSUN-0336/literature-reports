@@ -1,0 +1,1476 @@
+{
+  "generated_at_utc": "2026-09-05T10:31:29.977328+00:00",
+  "days_back": 7,
+  "paper_count": 97,
+  "papers": [
+    {
+      "title": "Remote sensing for monitoring and managing Eichhornia crassipes: a review of methods, applications, and decision-support frameworks",
+      "authors": "Daniel H.C. Salim, Caio Mello, Gabriel Pereira, Raian V. Maretto, Camila C. Amorim",
+      "publication_date": "2026-09-02",
+      "doi": "10.1007/s10661-026-15788-y",
+      "url": "https://doi.org/10.1007/s10661-026-15788-y",
+      "source": "OpenAlex / Environmental Monitoring and Assessment",
+      "abstract": "Eichhornia crassipes (water hyacinth) is among the world's most aggressive aquatic invasive plants, with severe ecological and socioeconomic impacts on freshwater ecosystems. Over the last two decades, remote sensing has emerged as a critical tool for monitoring its spread and supporting management decisions, offering scalable, repeatable, and increasingly precise assessments. This review synthesizes 56 studies published between 2004 and 2025, examining how different platforms (satellites, UAVs, airborne, proximal), sensor types (multispectral, hyperspectral, SAR), and analytical methods (index thresholding, object-based classification, machine learning, deep learning) have been applied to detect, classify, and quantify E. crassipes. We highlight the evolution from early single-platform approaches to recent multimodal frameworks that integrate optical, radar, and UAV data, enabling both large-scale surveillance and fine-resolution diagnostics. Evidence demonstrates that species-level discrimination, phenological tracking, and biomass estimation are now feasible, with promising developments in linking spectral responses to pollutants and stress indicators. Despite these advances, ke",
+      "matched_query": "pest eradication containment",
+      "topic": "pest_management",
+      "relevance_score": 12,
+      "labels": [
+        "Surveillance",
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Assessing the threat: risk assessment of non-native plant pests likely to threaten livelihoods if introduced in Rwanda",
+      "authors": "Joseph Mulema, Bellancile Uzayisenga, Leon Hakizamungu, Bancy Waweru, Peruth Murekeyimana",
+      "publication_date": "2026-09-04",
+      "doi": "10.3389/fagro.2026.1897049",
+      "url": "https://doi.org/10.3389/fagro.2026.1897049",
+      "source": "OpenAlex / Frontiers in Agronomy",
+      "abstract": "The lack of information on potential invasions by alien species is a major contributor to the prevalence of invasions in sub-Saharan Africa. A rapid risk assessment was conducted to prioritise high-risk species not yet reported in Rwanda that could be introduced and become invasive. The CABI Horizon Scanning Tool identified 9,155 species (including 641 invasive species) that have not yet been reported in Rwanda but are present in other likely trading countries. The 9,155 species comprised 5,860 arthropods, 319 bacteria, 174 chromists, 1,762 fungi, 34 molluscs, 261 nematodes, 10 protists, 33 viroids, and 712 viruses. The 9,155 species were reduced to 1,972 (392 arthropods, 147 bacteria, 79 chromists, 784 fungi, 21 molluscs, 134 nematodes, nine protists, 18 viroids, and 388 viruses) identified as affecting major crops grown in Rwanda. An additional 127, which included 14 from the list of regulated pests, four deemed of phytosanitary concern, 18 identified in other risk assessment studies, and species vectored by (14) or vectors (77) of assessed species were added, raising the total to 2,099. Of the 2,099, 1,081 were reported outside Africa and 1,018 within Africa, with 381 reported i",
+      "matched_query": "agent-based model pest spread",
+      "topic": "ecological_modelling",
+      "relevance_score": 11,
+      "labels": [
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Flood-driven water contamination as a preventable public-health infrastructure failure: a perspective on flood-ready water and health systems",
+      "authors": "Sylvester Chibueze Izah, Matthew Chidozie Ogwu, Vivian Ibienebakabobo Promise, Ebinyo Rebecca Aseibai, Esther Ugo Alum",
+      "publication_date": "2026-09-04",
+      "doi": "10.3389/frwa.2026.1927775",
+      "url": "https://doi.org/10.3389/frwa.2026.1927775",
+      "source": "OpenAlex / Frontiers in Water",
+      "abstract": "Flooding is commonly approached as a hydrological disaster, followed by emergency relief, disease surveillance, and environmental clean-up. This approach appears incomplete because floodwater rapidly connects contaminated land, failed sanitation systems, agricultural areas, industrial facilities, water-supply infrastructure, ecosystems, and households. Flood-driven water contamination should therefore be understood as a preventable public-health infrastructure failure rather than an unavoidable aftermath of inundation. This Perspective argues that the health consequences of flooding are shaped not only by the intensity of rainfall or flood depth, but also by the pollutant burden already present in a catchment, the condition of water and sanitation systems, the security of drinking-water sources, and the ability of institutions to translate environmental warnings into timely protective action. The paper proposes flood-ready water and health systems as an integrated public-health model that links upstream pollution prevention, flood-triggered water-quality surveillance, water-safety planning, equitable risk communication, healthcare preparedness, and environmental-health governance.",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 9,
+      "labels": [
+        "Ecological modelling",
+        "Outbreak response",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Development of a AMF4–sulfoxaflor mixture based on dual strategies of synergistic insecticide efficacy and host rice defense activation",
+      "authors": "Jitong Li, Tianping Fang, Liting Feng, Xinyan Liang, Yushen Zhao",
+      "publication_date": "2026-09-03",
+      "doi": "10.1016/j.indcrop.2026.124304",
+      "url": "https://doi.org/10.1016/j.indcrop.2026.124304",
+      "source": "OpenAlex / Industrial Crops and Products",
+      "abstract": "The brown planthopper ( Nilaparvata lugens Stål, BPH) is a major migratory pest in rice-growing regions, whose seasonal migrations often trigger explosive outbreaks in rice paddies, leading to substantial economic losses. Abscisic acid (ABA) is known to mitigate insect-induced stress in host plants, and the AMF4 (ABA receptor agonist, ABA mimic fluorinated derivative) has been shown to possess superior chemical stability and biological activity compared to ABA. Although the insecticide sulfoxaflor has been extensively applied for BPH management, its efficacy has been increasingly compromised by the development of resistance. In this study, we demonstrate that a 1:50 (w/w) AMF4: sulfoxaflor mixture exerts a significant synergistic effect on BPH mortality. This combined treatment markedly reduced the average damage level and function loss index of rice, reduced the population size of brown planthopper, increased the content of secondary metabolites flavonoids in rice. And reduced nymph survival, suppressed female oviposition, and lowered egg eclosion rates. Moreover, exposure to the AMF4-sulfoxaflor formulation led to diminished flight velocity, shortened flight duration, decreased c",
+      "matched_query": "surveillance network optimization pest",
+      "topic": "outbreak_management",
+      "relevance_score": 9,
+      "labels": [
+        "Outbreak response"
+      ]
+    },
+    {
+      "title": "Self-care strategies and interventions to address antimicrobial resistance: evidence review and recommendations for national programs, service providers, caregivers, and self-carers",
+      "authors": "Reuben Kiggundu, J. P. Waswa, Fahad Lwigale, Herman Mwanja, Mackline Hope",
+      "publication_date": "2026-09-03",
+      "doi": "10.3389/fpubh.2026.1782858",
+      "url": "https://doi.org/10.3389/fpubh.2026.1782858",
+      "source": "OpenAlex / Frontiers in Public Health",
+      "abstract": "Background Antimicrobial resistance (AMR) poses a significant global health threat, disproportionately affecting low- and middle-income countries where fragile health systems struggle to respond effectively. Self-care strategies and interventions present a complementary approach to support antimicrobial stewardship by empowering individuals to prevent and manage infections with appropriate tools and guidance. Objective and key concepts This narrative review provides an interpretive synthesis of the role of self-care strategies and interventions in AMR containment, focusing on five core self-care strategies: self-awareness through AMR education, self-testing using rapid diagnostics, guided self-treatment with quality-assured medicines, self-monitoring via digital tools, and structured self-management under professional oversight. Digital health and community health systems are self-care interventions that enable self-care strategies. Findings Self-care strategies and interventions enhance early infection detection and management, promote appropriate antimicrobial use, and reduce pressure on health systems. However, effective implementation is hindered by limited access to reliable A",
+      "matched_query": "pine wilt disease outbreak management",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 9,
+      "labels": [
+        "Pest management",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Dynamic analysis of a switching pest management model with incomplete hiding and complete exposure behaviors",
+      "authors": "Hongyan Gao, Jianjun Jiao, Hongyan Sun, Lu Lin",
+      "publication_date": "2027-2",
+      "doi": "10.1016/j.jmaa.2026.131042",
+      "url": "https://doi.org/10.1016/j.jmaa.2026.131042",
+      "source": "Crossref / Journal of Mathematical Analysis and Applications",
+      "abstract": "",
+      "matched_query": "pest eradication containment",
+      "topic": "pest_management",
+      "relevance_score": 8,
+      "labels": [
+        "Ecological modelling",
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Diversity, distribution and pest status of soft scale insects (Hemiptera: Coccomorpha: Coccidae) in Fergana Valley agroecosystems, Uzbekistan: implications for phytosanitary monitoring and integrated pest management",
+      "authors": "Ozodbek Tojimatovich Sobirov, Kholidakhon Rakhimjon Qizi Kakhkhorova, Dilfuza Tirkashboyevna Turdiyeva, Sarvarbek Tulanboy o’g’li Voxidov, Feruzakhon Tirkashboyevna Turdiyeva",
+      "publication_date": "2026-09-04",
+      "doi": "10.1007/s12600-026-01436-1",
+      "url": "https://doi.org/10.1007/s12600-026-01436-1",
+      "source": "OpenAlex / Phytoparasitica",
+      "abstract": "",
+      "matched_query": "integrated pest management invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 8,
+      "labels": [
+        "Pest management",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Canopy dieback is exacerbating bird population decline in South Australian woodlands",
+      "authors": "Chloé Bentze, Greg R. Guerin, John Boland, Amelia Hurren, Gunnar Keppel",
+      "publication_date": "2026-09-03",
+      "doi": "10.1016/j.biocon.2026.112074",
+      "url": "https://doi.org/10.1016/j.biocon.2026.112074",
+      "source": "OpenAlex / Biological Conservation",
+      "abstract": "Dieback is an emerging threat to forests globally, but its long-term impact on biodiversity remains sparsely investigated. In this study, we integrate multiple datasets to assess whether canopy dieback in stringybark eucalypt ( Eucalyptus obliqua, L'Hérit. and Eucalyptus baxteri (Benth.) Maiden & Blakely ex J.M. Black) woodlands of the Mount Lofty Ranges in South Australia contributes to declines in bird populations. Using 20 years of monitoring data on bird populations and tree canopy condition, we investigate which woodland species are impacted by canopy dieback. Overall, results suggest that many woodland birds have been gradually declining over time and that canopy dieback may be accentuating declines. While only the Striated Thornbill ( Acanthiza lineata ) significantly declined over time with the amount of dieback in generalised mixed-effect models, estimated marginal means suggested aggravated abundance declines for species foraging in the canopy or on invertebrates when severe dieback occurs. These findings support previous work suggesting that canopy dieback can negatively affect habitat specialists and canopy-dependent species. Future increases in canopy dieback, driven b",
+      "matched_query": "forest pest management outbreak",
+      "topic": "pest_management",
+      "relevance_score": 8,
+      "labels": [
+        "Ecological modelling",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Wildlife disease surveillance under uncertainty: an adaptive search-theoretic framework for early detection of transboundary animal diseases",
+      "authors": "Andrew J. Bengsen, Sébastien Comte, Lee K Parker, Chris Brausch, Fabiola R. O. Silva",
+      "publication_date": "2026-09-02",
+      "doi": "10.64898/2026.08.31.748179",
+      "url": "https://doi.org/10.64898/2026.08.31.748179",
+      "source": "OpenAlex / bioRxiv (Cold Spring Harbor Laboratory)",
+      "abstract": "Rapid detection is critical for successful management of transboundary animal disease incursions in wild host populations. However, decisions about how best to allocate wildlife disease surveillance effort must be made under high uncertainty. Risk-based surveillance can improve efficiency but approaches that focus surveillance too narrowly on expected high risk areas could have low power to detect unexpected events. We developed and field-tested an adaptive, search-theoretic surveillance framework for detecting transboundary animal disease incursions in wild ungulates in New South Wales, Australia. Key principles that guided the frameworks development included accommodating uncertainty, regularly updating search priorities based on expected risk and spatial coverage, and a flexible structure that allows the system to respond to changing information or conditions over time. We created a coarse state-wide risk map that served as a weakly informative prior describing expected variability in disease incursion risk, loosely focused on foot and mouth disease virus (FMDv). Risk and search values were updated every three months based on realised surveillance effort and estimated detection",
+      "matched_query": "pest eradication containment",
+      "topic": "pest_management",
+      "relevance_score": 8,
+      "labels": [
+        "Ecological modelling",
+        "Outbreak response",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Fluopyram in agricultural ecosystems: environmental fate, microbial transformation, ecotoxicity, and resistance risks of an SDHI fungicide",
+      "authors": "Chaoqun Zhang, Muhammad Zafar Ullah, Chengwei Guan, Mustansar Mubeen, Yongliang Ding",
+      "publication_date": "2026-09-03",
+      "doi": "10.3389/fmicb.2026.1890957",
+      "url": "https://doi.org/10.3389/fmicb.2026.1890957",
+      "source": "OpenAlex / Frontiers in Microbiology",
+      "abstract": "Fluopyram is a next-generation succinate dehydrogenase inhibitor (SDHI) fungicide, which is very popular in the management of economically significant fungal conditions in cereals, fruits, vegetables, and ornamental crops. It works by inhibiting the complex II present in the mitochondria by blocking succinate dehydrogenase, which electron transport and energy generation, eventually hindering fungal development leading to death of the pathogen. Besides having good fungicidal effects, fluopyram has also demonstrated a nematicidal effect, which has also enhanced its utility in various agricultural systems. Empirical studies indicate that SDHIs can induce mortality, mitochondrial dysfunction, oxidative stress, and developmental delays in non-target organisms. Additionally, the environmental persistence of these compounds raises concerns about their potential for ecological disruption. The extensive and growing use of SDHIs however has also given rise to the issue of resistance development with recorded resistance cases in a number of fungal populations and has placed a strong demand on the need to use crop rotation strategies, combination formulations and resistance monitoring initiati",
+      "matched_query": "Bursaphelenchus xylophilus surveillance",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 7,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Prevention of Destructive Fishing in the Waters of Tual City: Effective Surveillance and Law Enforcement Strategies",
+      "authors": "Suharta ., Sigit Bintoro, Riyan Maulana, Ismi Isti Anah",
+      "publication_date": "2089",
+      "doi": "10.54660/.ijmrge.2025.6.1.2089-2094",
+      "url": "https://doi.org/10.54660/.ijmrge.2025.6.1.2089-2094",
+      "source": "Crossref / International Journal of Multidisciplinary Research and Growth Evaluation",
+      "abstract": "<jats:p>Destructive fishing in the waters of Tual City remains a significant environmental and socio-economic issue, threatening marine biodiversity and the livelihoods of local fishermen. This study analyzes the problem using a SWOT approach, identifying strengths such as existing government regulations and rich marine resources, weaknesses including limited enforcement capacity and economic dependence on harmful fishing practices, opportunities such as growing global demand for sustainable seafood, and threats like illegal fishing and climate change. Based on the SWOT analysis, several policy recommendations are proposed, including strengthening law enforcement, promoting sustainable alternative livelihoods, enhancing education and awareness programs, expanding marine protected areas (MPAs), and creating market incentives for responsible fisheries. These strategies aim to transition Tual City towards sustainable fisheries management, balancing environmental conservation with economic development. Effective implementation of these policies will not only mitigate destructive fishing but also ensure long-term resilience for both the ecosystem and local fishing communities.</jats:p>",
+      "matched_query": "Bursaphelenchus xylophilus surveillance",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 6,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Population collapse of the Egyptian fruit bat on Cyprus (2005–2022): evidence for the roles of roost disturbance and reduced food availability likely associated with climate change",
+      "authors": "Radek Lučan, Hans Nicolaou, Tomáš Bartonička, Erik Bachorec, Martin Šálek",
+      "publication_date": "2026-09-04",
+      "doi": "10.1016/j.biocon.2026.112079",
+      "url": "https://doi.org/10.1016/j.biocon.2026.112079",
+      "source": "OpenAlex / Biological Conservation",
+      "abstract": "Insular bat populations are particularly vulnerable to human disturbance and environmental change, yet long-term demographic data remain scarce. The Egyptian fruit bat ( Rousettus aegyptiacus ) is the only native fruit bat in Europe, with Cyprus harbouring one of its most isolated populations. We analysed long-term monitoring data from 21 roosts surveyed between 2005 and 2022 to quantify population trends and evaluate the roles of roost accessibility and food availability. Population trends were estimated using log-linear TRIM models, while generalized linear mixed models tested whether trends differed between roosts with contrasting accessibility. Commercial fruit production was analysed as a proxy for food availability. The population declined from approximately 7200 individuals in 2005 to about 1050 in 2022, corresponding to an overall decline of 85.4% and an average annual decrease of 8.8%. Trend analyses identified three phases: a rapid decline (2005–2011), a slower decline (2012–2017), and a partial recovery after 2018. Colonies in easily accessible roosts declined significantly faster than those in less accessible roosts, indicating that human disturbance likely contributed",
+      "matched_query": "species distribution model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 6,
+      "labels": [
+        "Ecological modelling",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Winter activity and virus infection of Culicoides biting midges (Diptera: Ceratopogonidae) in German livestock housing before and during the 2024 BTV-3 outbreak",
+      "authors": "Anja Voigt, Helge Kampen, Martin Beer, Kerstin Wernike, Dorothee Scheuch",
+      "publication_date": "2026-09-04",
+      "doi": "10.1186/s13071-026-07620-w",
+      "url": "https://doi.org/10.1186/s13071-026-07620-w",
+      "source": "OpenAlex / Parasites & Vectors",
+      "abstract": "BACKGROUND: Despite its importance for Culicoides-borne disease risk assessment, the winter activity of species of this biting midge genus remains poorly characterized. Moreover, information on virus circulation in winter-active Culicoides vectors, both under endemic conditions and during outbreaks, is almost non-existent. METHODS: UV-light traps to collect Culicoides biting midges were operated once a week for 24 h in cattle, sheep, goat and horse stables at 12 to 55 locations during four consecutive winter periods (November 1 to March 31, 2021 to 2025) throughout Germany. Collected females of the genus Culicoides were morphologically assigned to Obsoletus Group or Pulicaris Complex. Temperature data were recorded to relate biting midge activity to temperatures. Screening for bluetongue virus (BTV), Schmallenberg virus and epizootic hemorrhagic disease virus was done by real-time RT-PCR on 1,581 pools (46,358 females) of both groups collected before (winter 2022/2023) and during the BTV serotype 3 (BTV-3) outbreak (winters 2023/2024 and 2024/2025). RESULTS: Culicoides collections displayed notable variation between sites and months. November and March accounted for 95% of captures",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 6,
+      "labels": [
+        "Outbreak response",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Qualitative risk assessment of Japanese encephalitis virus introduction and transmission in Pacific Island countries and territories",
+      "authors": "Kevin Moore, Amanda K. Murphy, Fan Yu, Kevin Moore, Liuyi Chen-Cao",
+      "publication_date": "2026-09-03",
+      "doi": "10.1371/journal.pntd.0014162",
+      "url": "https://doi.org/10.1371/journal.pntd.0014162",
+      "source": "OpenAlex / PLoS neglected tropical diseases",
+      "abstract": "BACKGROUND: The emergence of Japanese encephalitis virus (JEV) in Australia raises questions about transmission potential across neighbouring Pacific Island countries and territories (PICs), where surveillance infrastructure and diagnostic capacity are limited. METHODOLOGY: We conducted a qualitative risk assessment of 22 PICs structured around three components: (1) 'release assessment', evaluating JEV introduction pathways based on geographic proximity, migratory waterbird flyway connectivity, and windborne mosquito dispersal potential; (2) 'exposure assessment', evaluating ecological transmission suitability based on vector and host competence and occurrence; and (3) 'risk characterisation', integrating release and exposure components to stratify countries into transmission risk profiles (endemic, epidemic, and low potential). Introduction potential varied across the region, with northern and western PICs having greatest connectivity to endemic regions. Ecological suitability for transmission was sufficient to support JEV transmission in 13 of the 22 PICs if introduced. Eight PICs were characterised as having endemic transmission potential (Papua New Guinea, which already has con",
+      "matched_query": "outbreak prediction invasive pest",
+      "topic": "outbreak_management",
+      "relevance_score": 6,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Atmospheric Dynamics and Diversity of Alternaria and Fusarium in a Common Wheat (Triticum aestivum L.) Crop in NW Spain",
+      "authors": "Kenia C. Sánchez Espinosa, Esperanza Duarte-Escalante, María Fernández-González, María del Roció Reyes-Montes, F. Javier Rodríguez‐Rajo",
+      "publication_date": "2026-09-02",
+      "doi": "10.1007/s10343-026-01410-1",
+      "url": "https://doi.org/10.1007/s10343-026-01410-1",
+      "source": "OpenAlex / Journal of Plant Diseases and Protection",
+      "abstract": "Abstract This study investigated the diversity of Alternaria and Fusarium species in atmospheric aerosols and plant tissue in a common wheat crop in NW Spain. The relationship between atmospheric fungal spore concentrations and weather conditions was analysed. To this end, non-viable and viable aerobiological monitoring methodologies were combined with isolates from plants showing symptoms of fungal infection. The isolates were identified by morphological characterisation and phylogenetic analysis of the 1‑alpha elongation factor (TEF-1α). Redundancy analysis was used to quantify the weight of delayed energy and water factors on spore dynamics. The global RDA model was significant, explaining 15.8% of the total variance. Alternaria was associated with wind speed and temperature, while Fusarium was linked to precipitation and humidity on the previous day. The coincidence of Alternaria species in the air and on plants was confirmed. However, while a high diversity of Fusarium species was identified in plant tissue, F . oxysporum predominated in the air. These findings underscore the need for future species-specific epidemiological models and the use of monitoring systems that allow f",
+      "matched_query": "surveillance network optimization pest",
+      "topic": "outbreak_management",
+      "relevance_score": 6,
+      "labels": [
+        "Ecological modelling",
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Retrieval of pigment content and water status of Pinus massoniana under pine wood nematode stress using multitemporal UAV multispectral imagery.",
+      "authors": "You Z, Yu R, Hong H, Wu S, Zhang F",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ps.70957",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42178510/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "integrated pest management invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 6,
+      "labels": [
+        "Pine wood nematode"
+      ]
+    },
+    {
+      "title": "Investigation and Optimization of Air Pollution Risk by a Multi-criteria Decision Making Method Using Fuzzy TOPSIS: A Case Study of Construction Workers",
+      "authors": ", Eghbal Sekhavati, Reza Jalilzadeh Yengejeh,",
+      "publication_date": "2121-10-1",
+      "doi": "10.32598/jaehr.9.4.1229",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1229",
+      "source": "Crossref / Journal of Advances in Environmental Health Research",
+      "abstract": "<jats:p>Background: Investigating human health during work importantly affect the safety and efficiency of the society. Different types of activity, including industrial, constructional, heavy duty ones, etc., affect the health of workers during their activities. In this study, the Multi-Objective Decision-Making (MODM) method was combined with fuzzy TOPSIS to investigate and optimize the air pollution risk affecting the health and safety of construction workers of Lar City, Fars Province, Iran. Methods: The comparison matrices (binary) and the Phillips–Perron test of different criteria and sub-criteria of health risk, including safety view, safety efficiency, understanding the risk, and risk investigation, were assessed to find the most influential factors for the optimization of the health risk of the workers. Results: Accordingly, the results indicated that “understanding the risk” followed by “safety efficiency” affected the health risk of the construction workers the most. However, among the sub-criteria, the most effective ones were “worker knowledge”, “manager knowledge”, “logistic specialized managers”, “modern facilities”, and “modern technology”. The selection of the line",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 5,
+      "labels": [
+        "Ecological modelling",
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Assessment of Human Health Risk and Surface Soil Contamination by Some Toxic Elements in Arak City, Iran",
+      "authors": ", Meghdad Bineshpour, Khoshnaz Payandeh, , Ahad Nazarpour",
+      "publication_date": "2121-10-1",
+      "doi": "10.32598/jaehr.9.4.1233",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1233",
+      "source": "Crossref / Journal of Advances in Environmental Health Research",
+      "abstract": "<jats:p>Background: Population growth, numerous factories, and many vehicles are the primary sources of environmental pollution and toxic elements in the industrial city of Arak, Iran. Methods: In June 2016, a total of 30 toxic element samples were taken from surface soils to examine their contents of lead (Pb), Zinc (Zn), Copper (Cu), Nickel (Ni), Arsenic (As), Chromium (Cr), and Cadmium (Cd). The samples were collected from 0 to 20 cm depth and measured using Atomic Absorption Spectroscopy (AAS) (PG990 Model). Results: The results showed that the mean concentrations of all toxic elements except arsenic had a higher value than the background values in the world. The Top Enrichment Factor (TEF) of toxic elements of nickel, chromium, lead, and copper was higher than other elements. The Potential Ecological Risk (PER) index showed high and very high risk for the elements. For all elements, the Hazard Index (HI) values were higher for children than for adults. Moreover, the results of carcinogenic health risk assessment (Carcinogenicity Risk [CR]) of the toxic elements for Cr in children with an average value of 0.001 and adults with an average value of 3.81e-04 showed that the CR of ",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 5,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Advancing Health Equity In Long Covid: Bioethical Considerations And System-Level Strategies For Post-Acute Care And Recovery",
+      "authors": "Qambar Abbas, Byunghun Jeong, Seung Won Lee",
+      "publication_date": "2026-10-01",
+      "doi": "",
+      "url": "http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S1726-569X2026000200319",
+      "source": "OpenAlex / Scientific Electronic Library Online (Scientific Electronic Library Online)",
+      "abstract": "Abstract: Long COVID has emerged as a continuing public health challenge, with symptoms such as fatigue, cognitive slowing and shortness of breath affecting many people well after the initial SARS-CoV-2 infection. This review synthesizes evidence on prevalence, symptom, risk determinants, health utilization, and the wider social and economic effects of Long COVID, emphasizing prevention and health system preparedness. The analysis highlights differences across regions and population groups, rising pressure on rehabilitation services and notable consequences for employment, education and mental health. The study looks at fairness in resource distribution within overburdened health systems, equity in care access, and the protection of vulnerable groups in research and policy responses from an ethical standpoint. We underline the importance of harmonized diagnostic criteria, inclusive and representative research, and equitable access to chronic care services. We also set out priority policy actions to support earlier identification, team-based models of care and coordinated national strategies. By integrating clinical, economic and social perspectives, this review outlines a policy pr",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 5,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Can FinTech innovate Green Finance? Scrutinising the Platform Ecologies of FinTech for Forest Restoration",
+      "authors": "Jack Harris, Felicia Liu, B Thompson",
+      "publication_date": "2026-10-01",
+      "doi": "",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/242759/1/1-s2.0-S0048733326001551-main.pdf",
+      "source": "OpenAlex / White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "abstract": "Green finance has struggled to make a difference in climate change mitigation.For some, the main limitations lie in scaling and diversifying financial flows and instruments to close the climate funding gap, while for others, green finance is fundamentally flawed as an incumbent-led project that opens new environmental frontiers for accumulation.In response, FinTech has been touted as offering the technological solutions that could both bridge the climate financing gap and disrupt the systemic issues green finance faces.Yet, critical voices question whether FinTech is simply the latest 'technological turn' in a long line of socioecological fixes, designed to reintermediate financial activity onto increasingly powerful FinTech platforms.To assess the potential for Fin-Tech to innovate green finance, we explore a suite of FinTech innovations aimed at enticing, incentivising, and thus mobilising retail consumers to fund tree planting for forest restoration as a means of delivering climate, biodiversity, and livelihood outcomes.Rooted in the award-winning Ant Forest innovation by Alibaba, we document eight subsequent variations of the Ant Forest model by different FinTech firms, who sha",
+      "matched_query": "early detection rapid response invasive species",
+      "topic": "outbreak_management",
+      "relevance_score": 5,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Integrating habitat suitability, socioeconomics, and infrastructure to assess global biological invasion risk under climate change: A case study of the rice stem borer, Chilo suppressalis.",
+      "authors": "Hong J, Lee M, Kim Y, Lee YS, Wee J",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ps.70952",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42210590/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "integrated pest management invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 5,
+      "labels": [
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Unveiling a Hidden Menace: Invasive Tree Pathogens, Less Known but Increasingly Threatening Southern Hemisphere Forests.",
+      "authors": "Burgess TI, Wingfield MJ",
+      "publication_date": "2026 Sep",
+      "doi": "10.1146/annurev-phyto-011325-100959",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42296197/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "early detection rapid response invasive species",
+      "topic": "outbreak_management",
+      "relevance_score": 5,
+      "labels": [
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+      "authors": "",
+      "publication_date": "Mon, 24 Aug 2026 08:49:08 EDT",
+      "doi": "",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+      "source": "RSS / Agriculture and Food News -- ScienceDaily",
+      "abstract": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
+      "matched_query": "RSS relevance filter",
+      "topic": "rss",
+      "relevance_score": 4,
+      "labels": [
+        "Outbreak response"
+      ]
+    },
+    {
+      "title": "237Chapter 15 Cognitive Liberty and the “Human Intelligence” Pillar: Legal Frontiers of Neuro-surveillance",
+      "authors": "Raneeta Pal, Ravi Kant",
+      "publication_date": "2027-4-15",
+      "doi": "10.1515/9783112237687-015",
+      "url": "https://doi.org/10.1515/9783112237687-015",
+      "source": "Crossref / Data-Driven Sustainable Workforce Analytics",
+      "abstract": "",
+      "matched_query": "Bursaphelenchus xylophilus surveillance",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 4,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Hyaluronidase-responsive dual-functional nanoplatform for sequential biofilm deconstruction and photothermal eradication",
+      "authors": "Wei Yang, Mei Kan, Jie Chen, Anzhuo Weng, Xin Chen",
+      "publication_date": "2027-3",
+      "doi": "10.1016/j.jmst.2026.07.052",
+      "url": "https://doi.org/10.1016/j.jmst.2026.07.052",
+      "source": "Crossref / Journal of Materials Science &amp; Technology",
+      "abstract": "",
+      "matched_query": "pest eradication containment",
+      "topic": "pest_management",
+      "relevance_score": 4,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Asynchronous formation-containment flocking of multi-agent systems",
+      "authors": "Shuo Wang, Lei Shi, Zhuangzhuang Ma",
+      "publication_date": "2027-2",
+      "doi": "10.1016/j.apm.2026.117182",
+      "url": "https://doi.org/10.1016/j.apm.2026.117182",
+      "source": "Crossref / Applied Mathematical Modelling",
+      "abstract": "",
+      "matched_query": "pest eradication containment",
+      "topic": "pest_management",
+      "relevance_score": 4,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Molecular surveillance of chicken Eimeria species in commercial poultry farms in the Philippines",
+      "authors": "Aruto Takano, Dennis V. Umali, Caressa Marielle D. Poliquit, Laurie Ann Marcella N. Aguirre, Fletcher P. Del Valle",
+      "publication_date": "2027-2",
+      "doi": "10.1016/j.parint.2026.103356",
+      "url": "https://doi.org/10.1016/j.parint.2026.103356",
+      "source": "Crossref / Parasitology International",
+      "abstract": "",
+      "matched_query": "Bursaphelenchus xylophilus surveillance",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 4,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "A gradient-enhanced physics-informed framework for explainable detection of abnormal ship behavior in maritime surveillance",
+      "authors": "Yukuan Wang, Ryan Wen Liu, Jingxian Liu, Lichao Yang, Miquel Angel Piera Eroles",
+      "publication_date": "2027-1",
+      "doi": "10.1016/j.ress.2026.113250",
+      "url": "https://doi.org/10.1016/j.ress.2026.113250",
+      "source": "Crossref / Reliability Engineering &amp; System Safety",
+      "abstract": "",
+      "matched_query": "Bursaphelenchus xylophilus surveillance",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 4,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "Centuries of Potato Late Blight: Tracking Global Epidemics and Managing Future Outbreaks.",
+      "authors": "Ristaino JB",
+      "publication_date": "2026 Sep",
+      "doi": "10.1146/annurev-phyto-011325-113146",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693005/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 4,
+      "labels": [
+        "Outbreak response"
+      ]
+    },
+    {
+      "title": "Invisible Threats, Relentless Hunters: Biosurveillance of Airborne Plant Pathogens.",
+      "authors": "Quesada-Ocampo LM, Miles T, Prieto-Torres M, Chilvers MI, Crandall SG",
+      "publication_date": "2026 Sep",
+      "doi": "10.1146/annurev-phyto-011325-093123",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693003/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 4,
+      "labels": [
+        "Surveillance"
+      ]
+    },
+    {
+      "title": "The Relationship Between Perfectionism, Early Maladaptive Schemas, Attachment Styles, and Body Image Concern by the Mediating Role of Self-esteem in Cosmetic Surgery Applicants",
+      "authors": ", Fatemeh Moghadam, Hossein Ebrahimi Moghadam, , Pantea Jahangir",
+      "publication_date": "2121-2-1",
+      "doi": "10.32598/jccnc.7.1.351.1",
+      "url": "https://doi.org/10.32598/jccnc.7.1.351.1",
+      "source": "Crossref / Journal of Client-Centered Nursing Care",
+      "abstract": "<jats:p>Background: Psychological characteristics could significantly impact applications for cosmetic surgery as well as precognition and satisfaction with surgery. The present study aimed to investigate the relationship between perfectionism, early maladaptive schemas, attachment styles, and body image concern by the mediating role of self-esteem in cosmetic surgery applicants. Methods: This was a predictive correlational study. The statistical population of the study included all female applicants for cosmetic surgery referring to cosmetic surgery centers in Tehran City, Iran, in 2020. A sample size of 400 women was selected based on Klein’s model (2016). The required data were collected by Rosenberg Self-Esteem Scale (RSES) (1989), Multidimensional Perfectionism Scale (MPS), Young Schema Questionnaire (YSQ-S3), Adult Attachment Scale (AAS), and Body Image Concern Inventory (BICI), and analyzed using Pearson correlation coefficient and structural equations in SPSS and AMOS. Results: The obtained results signified a significant relationship between perfectionism, early maladaptive schemas, attachment styles, self-esteem, and body image concerns (P&lt;0.01). Furthermore, the modif",
+      "matched_query": "early detection rapid response invasive species",
+      "topic": "outbreak_management",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Introducing a conceptual model of brand orientation within the context of Social Entrepreneurial Businesses",
+      "authors": "Holger Schmidt, Carsten Baumgarth",
+      "publication_date": "2114-12-10",
+      "doi": "10.15556/ijsim.01.01.004",
+      "url": "https://doi.org/10.15556/ijsim.01.01.004",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "individual-based model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Barriers to Adaptation of Information and Communication Technologies : An Ecological Model Perspective",
+      "authors": "Nimmy Maria Joseph, P. E. Thomas",
+      "publication_date": "2108-4-1",
+      "doi": "10.29070/27/57485",
+      "url": "https://doi.org/10.29070/27/57485",
+      "source": "Crossref / Contemporary Social Sciences",
+      "abstract": "",
+      "matched_query": "agent-based model pest spread",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Enhanced Recovery and Reduced Complications with Minimally Invasive Coronary Artery Bypass Grafting Compared to Open Sternotomy",
+      "authors": "Armin Sljivo, Haris Vukas, Muhamed Djedovic, Lana Lekic, Amina Tawil",
+      "publication_date": "2100",
+      "doi": "10.5455/aim.2025.33.135-139",
+      "url": "https://doi.org/10.5455/aim.2025.33.135-139",
+      "source": "Crossref / Acta Informatica Medica",
+      "abstract": "<jats:p>Background: Minimally invasive coronary artery bypass grafting (MICS CABG) via left anterior thoracotomy has emerged as a less invasive alternative to conventional open sternotomy (OPEN CABG), offering potential benefits in perioperative outcomes and complication rates. Objective. The aim of this study was to compare procedural characteristics, ventilation duration, drainage volumes, and postoperative complications between MICS CABG and OPEN CABG in a single-center cohort in Bosnia and Herzegovina. Methods. This retrospective cross-sectional study included 262 patients who underwent surgical revascularization between January 2019 and June 2023. Results. MICS CABG was associated with a shorter median procedure time (2.5 vs. 3.5 hours, p&lt;0.001) and reduced mechanical ventilation duration (11.0 vs. 14.0 hours, p&lt;0.001). Although ICU stay was similar (3.0 days, p=0.001), total hospitalization was shorter for MICS CABG (6.0 vs. 7.0 days, p&lt;0.001). Postoperative drainage was significantly lower at all measured time points (p&lt;0.05), and transfusion requirements were reduced for red blood cells (0 vs. 2 units, p&lt;0.001), fresh frozen plasma (0 vs. 2.5 units, p&lt;0.00",
+      "matched_query": "outbreak prediction invasive pest",
+      "topic": "outbreak_management",
+      "relevance_score": 3,
+      "labels": [
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Out-of-cluster Prediction for Model Selection in Regression with Unsupervised Clustering",
+      "authors": "Masao Ueki",
+      "publication_date": "2029",
+      "doi": "10.5705/ss.202025.0466",
+      "url": "https://doi.org/10.5705/ss.202025.0466",
+      "source": "Crossref / Statistica Sinica",
+      "abstract": "",
+      "matched_query": "outbreak prediction invasive pest",
+      "topic": "outbreak_management",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Network Model Averaging Prediction for Latent Space Models by K-fold Edge Cross-Validation",
+      "authors": "Yan Zhang, Jun Liao, Xinyan Fan, Kuangnan Fang, Yuhong Yang",
+      "publication_date": "2029",
+      "doi": "10.5705/ss.202025.0266",
+      "url": "https://doi.org/10.5705/ss.202025.0266",
+      "source": "Crossref / Statistica Sinica",
+      "abstract": "",
+      "matched_query": "outbreak prediction invasive pest",
+      "topic": "outbreak_management",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Numerical modeling of coarse-grained ash dispersal in current and ancient atmospheres on Mars: Implications for the origin of the Nili Fossae olivine‑carbonate unit",
+      "authors": "Eleni Ravanis, Sarah A. Fagents, Stephen M. Baloga",
+      "publication_date": "2027-1",
+      "doi": "10.1016/j.icarus.2026.117310",
+      "url": "https://doi.org/10.1016/j.icarus.2026.117310",
+      "source": "Crossref / Icarus",
+      "abstract": "",
+      "matched_query": "Monochamus galloprovincialis dispersal",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
+      "authors": "Felipe M. Berg, Eric Abenojar, Pinunta Nittayacharn, Nathan K. Hoggard, Sidhartha Tavri",
+      "publication_date": "2027-01-01",
+      "doi": "10.1016/j.bioactmat.2026.07.040",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42621251",
+      "source": "OpenAlex / PubMed",
+      "abstract": "The localization of prostate cancer by ultrasound remains limited by the lack of B-mode conspicuity and the confinement of clinically approved microbubbles (MBs) to the vasculature. This precludes differentiating viable tumor, necrotic tissue, and margin-associated disease. We investigated prostate-specific membrane antigen (PSMA)-targeted lipid-shelled perfluorocarbon nanobubbles (PSMA-NBs) in an orthotopic rabbit model using a clinical contrast-enhanced ultrasound (CEUS) system. We implanted PSMA-positive PC3pip-GFP tumors into the prostates of immunosuppressed New Zealand White rabbits and performed transabdominal imaging with PSMA-NBs, MBs, and Plain-NBs using identical protocols. To address tumor heterogeneity and ultrasound boundary ambiguity, regions of interest were defined from baseline B-mode images and segmented into the tumor core, rim, and a peritumoral area. Pixel-wise parametric and decorrelation time (DT) maps were generated and compared with whole-slide histology (H&E) and, in an exploratory and non-specific analysis, with PSMA IHC. Compared to MBs at the doses used, PSMA-NBs exhibited higher peak intensities in the tumor core and rim (1.60-fold and 1.50-fold, resp",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Probing metabolic integration in obligate, intracellular symbioses",
+      "authors": "C. ; https://orcid.org/0000-0002-5719-2416 Fiori Pereira, M. ; https://orcid.org/0000-0002-9574-9991 Ferrarini, M. ; https://orcid.org/0000-0001-9450-0345 Kaltenpoth, T. ; https://orcid.org/0000-0002-2200-2678 Engl",
+      "publication_date": "2026-10-01",
+      "doi": "",
+      "url": "https://hdl.handle.net/21.11116/0000-0013-1E7A-2",
+      "source": "OpenAlex / MPG.PuRe (Max Planck Society)",
+      "abstract": "Microbial symbionts can contribute crucial capabilities to insect physiology such as limited nutrients, digestive or detoxifying enzymes, or bioactive specialized metabolites.While symbiont identity, localization and genomic capabilities are comparatively well understood due to the rise of sequencing technologies, the molecular and metabolic integration of intracellular symbionts is less well characterized.Due to the obligate nature of most of these symbioses, the study of host or symbiont in isolation is rarely possible.Instead, in situ techniques are required to decipher intertwined physiological processes.Temporally and spatially resolved structural analyses of symbiotic associations, omics approaches, and integrated metabolic models allow for a better understanding of host-symbiont interaction and provide testable hypotheses.Gene expression modulation of both host and symbiont, pharmacological perturbation of enzyme activities, and isotope tracing, then allow to test these hypotheses experimentally.Here, we provide a conceptual overview of these fields and emphasize how integrated workflows can yield causal insights. Highlights:-spatially and temporally resolved imaging and OMI",
+      "matched_query": "individual-based model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Dissecting fluctuating selection: A unified population and quantitative genetics framework",
+      "authors": "Esdras Tuyishimire, Molly K. Burke, Elizabeth G. King",
+      "publication_date": "2026-09-04",
+      "doi": "10.1093/gbe/evag225",
+      "url": "https://doi.org/10.1093/gbe/evag225",
+      "source": "OpenAlex / Genome Biology and Evolution",
+      "abstract": "Abstract One of the longstanding debates in evolutionary biology is the effect of fluctuating selection on genetic changes in populations. However, the extent to which these periodic forces influence organisms at both genomic and phenotypic levels remains unclear. Despite the compelling evidence of fluctuating selection from recent studies, there is a disconnect between empirical and theoretical findings concerning the underlying mechanisms due to the limited evidence regarding the scale and processes that generate genome-wide oscillations. This study aims to elucidate how both genetic factors (e.g. heritability, number of causative loci) and ecological factors (e.g. season length, the difference in the phenotypic optima between seasons, population size dynamics) drive fluctuating selection and to identify the parameters that produce consistent oscillatory patterns. We developed a modeling framework integrating quantitative and population genetics to simulate a population under various selection regimes. We applied spectral analysis to detect periodicity, indicating cyclical selective environments. Our simulations highlight the conditions sustaining oscillations in allele frequenci",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Ecological modelling"
+      ]
+    },
+    {
+      "title": "Temperature-dependent dynamics and allee effect thresholds mediate fourfold cusp stability in biological control of invasive vectors.",
+      "authors": "Umar Sharif US, Mohd MH",
+      "publication_date": "2026 Sep",
+      "doi": "10.1016/j.mbs.2026.109750",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42331051/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "species distribution model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Pest management",
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Population genetic structure and dispersal patterns of the globally invasive codling moth (Cydia pomonella) in China.",
+      "authors": "Shi X, Yu M, Zheng J, Qin F, Wang X",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ps.70912",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42121349/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "species distribution model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 3,
+      "labels": [
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Human-Mediated Dispersal Drives Global Invasion of Halyomorpha halys: A COI Haplotype and Mantel Test Analysis.",
+      "authors": "Yan X, Chen Y, Liu D, Su Z, Xu W",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ece3.74272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42683211/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 3,
+      "labels": [
+        "Biological invasion"
+      ]
+    },
+    {
+      "title": "Investigating the Non-carcinogenic Risk and Hazard Quotient of Heavy Metals in High-traffic Districts of Tehran Metropolis, Iran",
+      "authors": ", Azam Mahdipour, Mojgan Zaeimdar, , Mohammad Sadegh Sekhavatjou",
+      "publication_date": "2121-10-1",
+      "doi": "10.32598/jaehr.9.4.1219",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1219",
+      "source": "Crossref / Journal of Advances in Environmental Health Research",
+      "abstract": "<jats:p>Background: This study aimed to investigate the concentrations of heavy metals bound to airborne Particulate Matter (PM) in high-traffic districts of Tehran, Iran, and to determine the carcinogenic risk and Hazard Quotient (HQ) of these metals using a descriptive-applied method. Methods: Six indoor/outdoor stations were established in three high-traffic districts of Tehran. Each station was sampled with six replicates in winter 2018 (36 samples in total). After extracting the metals from fiberglass filters by acid digestion based on the ASTM (the American Society for Testing and Materials method), the concentrations of heavy metals were determined by an Inductively Coupled Plasma (ICP-OES) device. The human health risk was evaluated according to the US EPA (Environmental Protection Agency) standard method. The obtained data were analyzed by the Spearman correlation and Multivariate Analysis of Variance (MANOVA) in SPSS. Results: Districts 2, 3, and then 15 were the most high-traffic areas of Tehran in descending order. Average heavy metal concentrations were detected in order of Al&gt;Fe&gt;Pb&gt;Mn&gt;Cu&gt;Zn&gt;Cr&gt;As&gt;Ni&gt;Cd. Also, the heavy metals concentrations ",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 2,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Opinion of citizens in Primary Health Care management and offered services by Local Authorities",
+      "authors": "George Pierrakos, A Goula, D Latdou, C Platis, M Sarris",
+      "publication_date": "2117-1-1",
+      "doi": "10.15556/ijsim.04.03.004",
+      "url": "https://doi.org/10.15556/ijsim.04.03.004",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Conflict Management Research and Cross-Functional Relationships: An Integrative Review and Synthesis",
+      "authors": "Panagiotis Polychroniou, Panagiotis Trivellas, Aggelos Baxevanis",
+      "publication_date": "2116-7-4",
+      "doi": "10.15556/ijsim.03.02.004",
+      "url": "https://doi.org/10.15556/ijsim.03.02.004",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Eating escargot: seasonal terrestrial gastropod exploitation by forest foragers in the ethnoarchaeological record of Central Africa",
+      "authors": "Karen Lupo, Nicolette Edwards",
+      "publication_date": "2026-09-04",
+      "doi": "10.1007/s12520-026-02560-z",
+      "url": "https://doi.org/10.1007/s12520-026-02560-z",
+      "source": "OpenAlex / Archaeological and Anthropological Sciences",
+      "abstract": "Abstract In the prehistoric record, the presence of small-sized resources including gastropods is often viewed as a marker of increased dietary breadth, declining foraging efficiency and/or flexible subsistence patterns involving diversified foraging activities. However, researchers often find it difficult to distinguish natural gastropod accumulations from those created by anthropogenic processes. Here we report on the context, profitability and methods of the seasonal hand-collecting and processing of terrestrial gastropods based on the observations of contemporary Central African forest foragers. In this context, gastropods were exploited in response to temporary and seasonal reductions in the availability of meat and changes in labor demands that allowed women and children to engage in this activity. Analyses of faunal remains from a wet season encampment presented here shows how different kinds of gastropod processing are reflected in the ethnoarchaeological record. These analyses validate several of the characteristics currently used by archaeologists to identify anthropogenic gastropod assemblages. Overall, the degree of burning, specimen completeness, and spatial distributi",
+      "matched_query": "individual-based model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Whole genome sequencing of multidrug-resistant clinical Klebsiella Isolates from community acquired pneumonia patients at Adama Hospital Medical College, Ethiopia",
+      "authors": "Feyissa Hamde, Abebe Mekuria Shenkutie, Polly H. M. Leung, Mesfin Bekele, Rian Pierneef",
+      "publication_date": "2026-09-04",
+      "doi": "10.1038/s41598-026-67568-w",
+      "url": "https://doi.org/10.1038/s41598-026-67568-w",
+      "source": "OpenAlex / Scientific Reports",
+      "abstract": "Klebsiella pneumoniae is a leading Gram-negative pathogen causing severe community-acquired pneumonia (CAP), classically characterized by rapid lung necrosis, cavitary lesions, and production of thick, blood-tinged sputum. CAP is an acute lung infection that develops in a person outside healthcare facilities or within 48 h of hospital admission for another reason. Its clinical significance is heightened by the emergence of multidrug-resistant (MDR) high-risk clones carrying specific fitness-associated virulence factors, which can complicate empirical treatment. Although K. pneumoniae is widely recognized as a major cause of healthcare-associated infections, it accounts for 3–15% of CAP cases globally, with a disproportionately higher incidence in low- and middle-income countries. Therefore, this study aimed to investigate antibiotic resistance genes, virulence genes, and clonal relationships of MDR Klebsiella species isolated from patients with CAP at Adama Hospital Medical College (AHMC). Sixteen Klebsiella isolates were collected from the sputum samples of patients with community-acquired pneumonia at AHMC. Bacterial identification employed conventional culture methods, a compreh",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Ecological Dynamics and Management of Citrus Psylla Diaphorina citri Kuwayama (Hemiptera: Psyllidae) Under Semi-arid Conditions in India",
+      "authors": "Mandeep Pathania, Arti Verma, Parshotam Kumar Arora, Shashi Pathania, Nirmaljit Kaur",
+      "publication_date": "2026-09-03",
+      "doi": "10.1007/s10341-026-02019-4",
+      "url": "https://doi.org/10.1007/s10341-026-02019-4",
+      "source": "OpenAlex / Applied Fruit Science",
+      "abstract": "",
+      "matched_query": "agent-based model pest spread",
+      "topic": "ecological_modelling",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "From pathogenesis to response: occurrence mechanisms, host resistance mechanisms, and management strategies of apple ring rot",
+      "authors": "Yue Chen, Zhu Li, Rongjing Cai",
+      "publication_date": "2026-09-03",
+      "doi": "10.3389/fmicb.2026.1897243",
+      "url": "https://doi.org/10.3389/fmicb.2026.1897243",
+      "source": "OpenAlex / Frontiers in Microbiology",
+      "abstract": "Apple ring rot, caused by Botryosphaeria dothidea ( B. dothidea ) and Botryosphaeria kuwatsukai ( B. kuwatsukai ), is an economically important fungal disease of apple that primarily damages apple branches and fruits. This article comprehensively reviews the research progress on apple ring rot, covering its disease symptoms (on branches, fruits and leaves), pathogenesis (etiology and occurrence regularity), host resistance mechanisms (basal resistance and induced resistance), and integrated control strategies (agricultural, physical, chemical and biological control). Meanwhile, it analyzes the key problems existing in current research and prospects future research directions. This review aims to provide a systematic theoretical basis and technical implications for the effective prevention and control of apple ring rot, and ultimately promote the sustainable and healthy development of the apple industry.",
+      "matched_query": "outbreak prediction invasive pest",
+      "topic": "outbreak_management",
+      "relevance_score": 2,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Management challenges of the feral reindeer (Rangifer tarandus) in Iceland: Historical lessons, evolving policy objectives, and current options for strategic planning.",
+      "authors": "Jorden Knubben, David Cook, Jón Geir Pétursson",
+      "publication_date": "2026-09-01",
+      "doi": "10.21203/rs.3.rs-10010939/v1",
+      "url": "https://doi.org/10.21203/rs.3.rs-10010939/v1",
+      "source": "OpenAlex / Research Square",
+      "abstract": "",
+      "matched_query": "pest eradication containment",
+      "topic": "pest_management",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "The association between mixed exposure to multiple metals and the risk of abnormally elevated blood glucose among aluminum factory workers.",
+      "authors": "Zhang Y, Xin Y, Li M, Xu H, Guo X",
+      "publication_date": "2026 Aug 31",
+      "doi": "10.1007/s10653-026-03460-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671658/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 2,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Effect of Drought Stress, Soil Salinity, P. indica, and MWCNs on Biodegradation of Diesel Oil in the Pb- and Cd-Polluted Soil Under Cultivation of Triticale Plant",
+      "authors": ", Amir Hossein Baghaie",
+      "publication_date": "2121-10-1",
+      "doi": "10.32598/jaehr.9.4.1232",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1232",
+      "source": "Crossref / Journal of Advances in Environmental Health Research",
+      "abstract": "<jats:p>Background: Today, soil pollution with heavy metals and petroleum compounds is one of the main environmental problems. This research was done to investigate the effect of drought stress, soil salinity, Piriformospora indica (P. indica), and MWCNs on biodegradation of diesel oil in the soil that contaminated with Pb and Cd under cultivation of triticale plant. Methods: Treatments consisted of applying MWCNs (2% [W/W]) in the Pb- and Cd-polluted soil that was simultaneously polluted with diesel oil (0, 5, and 10% [W/W]), and the plants used in this study were inoculated with P. indica. After 70 days, plants were harvested, and plant and soil Cd were measured using AAS (atomic absorption spectrometry). In addition, the degradation percentage of diesel oil in soil was determined. Results: Soil application of MWCNs at the rate of 2% (W/W) significantly increased the biodegradation of diesel oil in the soil in the drought and salinity (6 dS/m) stress by 11.3% and 15.6%, respectively. In addition, plant inoculation with P. indica significantly increased the biodegradation of diesel oil in the soil by 12.3%. For salinity (6 dS/m) and drought stress, it was increased by 8.3% and 9.4",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Are the mosquito and vector control programs economic effective?",
+      "authors": "Lambros Tsourgiannis, Despoina Chatzipanagiotou",
+      "publication_date": "2117-1-1",
+      "doi": "10.15556/ijsim.04.03.002",
+      "url": "https://doi.org/10.15556/ijsim.04.03.002",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Approaching Reading Clubs from a historical and sociological perspective",
+      "authors": "Georgios Bikos, Panagiota Papadimitriou",
+      "publication_date": "2115-12-30",
+      "doi": "10.15556/ijiim.02.02.004",
+      "url": "https://doi.org/10.15556/ijiim.02.02.004",
+      "source": "Crossref / International Journal on Integrated Information Management",
+      "abstract": "",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Library anxiety among undergraduate students in Greece",
+      "authors": "Konstantinos-Anastasios Doris, Paraskevi-Anna Provata, Eftichia Vraimaki",
+      "publication_date": "2115-12-30",
+      "doi": "10.15556/ijiim.02.02.003",
+      "url": "https://doi.org/10.15556/ijiim.02.02.003",
+      "source": "Crossref / International Journal on Integrated Information Management",
+      "abstract": "",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Individual and contextual variables affecting entrepreneurship, innovation and application of new technologies in Greece. Case study from the Greek tourism and transport sector",
+      "authors": "Vicky Katsoni, Alexandros Sahinidis",
+      "publication_date": "2115-12-30",
+      "doi": "10.15556/ijiim.02.02.002",
+      "url": "https://doi.org/10.15556/ijiim.02.02.002",
+      "source": "Crossref / International Journal on Integrated Information Management",
+      "abstract": "",
+      "matched_query": "individual-based model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Theory of Planned Behaviour: the Intention-Behaviour Relationship and the Perceived Behavioural Control (PBC) Relationship with Intention and Behaviour",
+      "authors": "Stavros Kiriakidis",
+      "publication_date": "2115-10-1",
+      "doi": "10.15556/ijsim.02.03.004",
+      "url": "https://doi.org/10.15556/ijsim.02.03.004",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Social Network Sites’ usage among Greek students in Western Macedonia",
+      "authors": "I. Antoniadis, I. Koukoulis, P. Serdaris",
+      "publication_date": "2115-10-1",
+      "doi": "10.15556/ijsim.02.03.005",
+      "url": "https://doi.org/10.15556/ijsim.02.03.005",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "surveillance network optimization pest",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Different or alike? Comparing computer-based and paper-based card sorting",
+      "authors": "Greve Goetz",
+      "publication_date": "2114-12-10",
+      "doi": "10.15556/ijsim.01.01.003",
+      "url": "https://doi.org/10.15556/ijsim.01.01.003",
+      "source": "Crossref / International Journal of Strategic Innovative Marketing",
+      "abstract": "",
+      "matched_query": "individual-based model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "WEB-BASED COLLABORATIVE LEARNING AND KNOWLEDGE SHARING IN INFORMAL BUSINESS NETWORKS",
+      "authors": "George Stalidis, Costis Papadimitrakopoulos, Theocharis Tsakiris",
+      "publication_date": "2114-12-10",
+      "doi": "10.15556/ijiim.01.02.002",
+      "url": "https://doi.org/10.15556/ijiim.01.02.002",
+      "source": "Crossref / International Journal on Integrated Information Management",
+      "abstract": "",
+      "matched_query": "individual-based model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Description of Eocader major n. sp. of Phatnomatini, with brief bionomic and taxonomic commentaries of other South American species of the tribe and of Stenocader (Cantacaderinae: Carldrakeanini) (Heteroptera: Tingidae)",
+      "authors": "Diego Carpintero, Sebastián De Biase",
+      "publication_date": "2108",
+      "doi": "10.22179/revmacn.20.484",
+      "url": "https://doi.org/10.22179/revmacn.20.484",
+      "source": "Crossref / Revista del Museo Argentino de Ciencias Naturales",
+      "abstract": "",
+      "matched_query": "species distribution model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Geographical distribution of Corydoras micracanthus Regan 1912 (Siluriformes: Callichthyidae), with comments on its behavior and type locality.",
+      "authors": "Felipe Alonso, Guillermo Terán, Pablo Calviño, Gastón Aguilera, Juan Marcos Mirande",
+      "publication_date": "2108",
+      "doi": "10.22179/revmacn.20.482",
+      "url": "https://doi.org/10.22179/revmacn.20.482",
+      "source": "Crossref / Revista del Museo Argentino de Ciencias Naturales",
+      "abstract": "",
+      "matched_query": "species distribution model invasive pest",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Efficac of Some Plant Extracts on Lucilia Sericata (Meigen) (Diptera: Calliphoridae)",
+      "authors": "کارولين بيستيو, احمد دانو.",
+      "publication_date": "2107-12-12",
+      "doi": "10.21608/eajbsf.2017.145562",
+      "url": "https://doi.org/10.21608/eajbsf.2017.145562",
+      "source": "Crossref / Egyptian Academic Journal of Biological Sciences, F. Toxicology &amp; Pest Control",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Comparison of Locus of Control Behaviour Scores in Normal and Individuals with stuttering – A new way to Approach Stuttering Disorder for Speech – Language Pathologists",
+      "authors": "Sachin B. Kumbhar, Dipti Gupta",
+      "publication_date": "2106-6-20",
+      "doi": "10.21276/ijchmr.2016.2.2.07",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.07",
+      "source": "Crossref / International Journal Of Community Health And Medical Research",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Giant Cells in Health and Disease-A Review",
+      "authors": "Sonal Gupta",
+      "publication_date": "2106-6-20",
+      "doi": "10.21276/ijchmr.2016.2.2.10",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.10",
+      "source": "Crossref / International Journal Of Community Health And Medical Research",
+      "abstract": "",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Investigation on Velocity Response and Energy Saving Performance of Water Hydraulic Systems Without Using Servo Valve",
+      "authors": "Pha N Pham, Kazuhisa Ito, Shigeru Ikeo",
+      "publication_date": "2103-9-9",
+      "doi": "10.3384/ecp1392a41",
+      "url": "https://doi.org/10.3384/ecp1392a41",
+      "source": "Crossref / Linköping Electronic Conference Proceedings",
+      "abstract": "",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "authors": "Joseph Heath",
+      "publication_date": "2103-3-10",
+      "doi": "10.12747/bejr2013.01.08",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Crossref / Business Ethics Journal Review",
+      "abstract": "",
+      "matched_query": "early detection rapid response invasive species",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Optimization of extraction procedure of Tongmai granules by orthogonal design with pharmacodynamic index",
+      "authors": "JIA Xiaobin",
+      "publication_date": "2100-1-15",
+      "doi": "10.4268/cjcmm20110214",
+      "url": "https://doi.org/10.4268/cjcmm20110214",
+      "source": "Crossref / China Journal of Chinese Materia Medica",
+      "abstract": "",
+      "matched_query": "surveillance network optimization pest",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Journal of GIS based Historical Studies",
+      "authors": "JANGIS",
+      "publication_date": "2029-05-06",
+      "doi": "10.5281/zenodo.7368979",
+      "url": "https://zenodo.org/record/7368979",
+      "source": "OpenAlex / Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract": "This is a journal of the Asian Network of GIS based Historical Studies, Tokyo, Japan",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Properties of the generalized principal eigenvalue for a nonlocal dispersal operator in one dimension",
+      "authors": "Mingxin Wang, Yiru Wang",
+      "publication_date": "2027-2",
+      "doi": "10.1016/j.aml.2026.110124",
+      "url": "https://doi.org/10.1016/j.aml.2026.110124",
+      "source": "Crossref / Applied Mathematics Letters",
+      "abstract": "",
+      "matched_query": "Monochamus galloprovincialis dispersal",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Epigenetic bias: Maternal CpG methylation signatures linked to sex-biased progeny and paternal mitochondrial fate in Mytilus galloprovincialis",
+      "authors": "D. García-Souto, A.P. Diz, P. Morán",
+      "publication_date": "2027-1",
+      "doi": "10.1016/j.aquaculture.2026.744451",
+      "url": "https://doi.org/10.1016/j.aquaculture.2026.744451",
+      "source": "Crossref / Aquaculture",
+      "abstract": "",
+      "matched_query": "Monochamus galloprovincialis dispersal",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Environmental and trophic drivers on growth and shell properties in wild and farmed mussel Mytilus galloprovincialis",
+      "authors": "Alessandra Spagnolo, Arianna Mancuso, Lorenzo Angeletti, Adele Basho, Alessandra Campanelli",
+      "publication_date": "2027-1",
+      "doi": "10.1016/j.aquaculture.2026.744454",
+      "url": "https://doi.org/10.1016/j.aquaculture.2026.744454",
+      "source": "Crossref / Aquaculture",
+      "abstract": "",
+      "matched_query": "Monochamus galloprovincialis dispersal",
+      "topic": "pine_wood_nematode",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Spider venom peptides Ht1a and Gg1a are toxic to honeybee parasite Varroa destructor by topical application.",
+      "authors": "Volker Herzig, Shaodong Guo, David A. Eagles, Sandy S. Pineda, Alexandra Robinson",
+      "publication_date": "2026-12-01",
+      "doi": "10.1038/s44386-026-00050-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42253431",
+      "source": "OpenAlex / PubMed",
+      "abstract": "influx. Our data reveal Ht1a and Gg1a as promising candidates for the development of novel varroa mite treatments of honeybee hives.",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Plant Innovation Laws in a Planetary Age: Securing Space for Farmers’ Innovation (ToC & Biblio)",
+      "authors": "Saurav Ghimire",
+      "publication_date": "2026-10-01",
+      "doi": "",
+      "url": "https://orbi.uliege.be/handle/2268/346742",
+      "source": "OpenAlex / ORBi (University of Liège)",
+      "abstract": "ANAPO (Asociacion de Productores de Oleaginosas Y Trigo) 2022) Andersen R, The History of Farmers' Rights A Guide to Central Documents and Literature (THE FRIDTJOF NANSEN INSTITUTE 2005) --, Realising Farmers' Rights Under the International Treaty on Plant Genetic Resources for Food and Agriculture (THE FRIDTJOF NANSEN INSTITUTE 2006) --, '\"Stewardship\" or \"Ownership\"' in Danny Hunter and others (eds), Routledge Handbook of Agricultural Biodiversity (1st edn, Routledge 2017) Antons C and others, 'Farmers as Researchers: Government Regulation of Farmers' Local Knowledge in Indonesia' Local Knowledge, Intellectual Property and Agricultural Innovation (Springer Singapore 2020A) Antons C, Winarto YT and Prihandiani AF, 'Farmer-Plant-Breeders and the Law on Java, Indonesia' (2020) 52 Critical Asian Studies 589 Aoki K, 'Seeds of Dispute : Intellectual-' (2009) 3 Golden Gate University Environmental Law Journal 79 Ashley L, 'Law and Politics of the Human/Nature Exploring the Foundations and Institutions of the \"Rights of Nature\"' in Louisa Ashley and Nicolette Butler (eds), The Incoherence of Human Rights in International Law: Absence, Emergence and Limitations (1st edn, Routledge 2024)",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Less cooperative belowground plant mutualists negatively affect aboveground herbivore growth and survival",
+      "authors": "Annaliese Wargin, Katy D. Heath, Jennifer A. Lau, Adam G. Dolezal, Alexandra Harmon‐Threatt",
+      "publication_date": "2026-09-04",
+      "doi": "10.1007/s00442-026-05966-7",
+      "url": "https://doi.org/10.1007/s00442-026-05966-7",
+      "source": "OpenAlex / Oecologia",
+      "abstract": "Abstract Resource mutualists like nitrogen (N)-fixing rhizobia can improve the nutrition of plants available to higher trophic levels. However, there is substantial intraspecific variation in mutualist quality. How this variation in mutualist quality affects higher trophic levels, such as herbivores, is unclear, as high-quality resource mutualists could increase both leaf nutrient content, which should improve herbivore growth, but also plant chemical defenses, which are expected to inhibit herbivore growth. We evaluated the effect of rhizobium strains of varying mutualist quality on the survival and development of a generalist insect herbivore, the beet armyworm (Spodoptera exigua), reared on alsike clover (Trifolium hybridum). We inoculated T. hybridum with cooperative (“high-quality”) and less cooperative (“low-quality”) rhizobia strains, measured plant growth, nutrients, and metabolites, and fed the leaves to S. exigua. We found that high-quality rhizobium strains significantly improved S. exigua survival, but also increased development time compared to low-quality strains. Furthermore, some developmental traits, such as pupal weight and adult wing area, increased in high-quali",
+      "matched_query": "ecological modelling pest management",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "From mitochondria to innate immunity: The mtDNA‑driven cGAS/STING‑NLRP3 cascade and its therapeutic implications in neurodegenerative diseases (Review)",
+      "authors": "Hui Liu, Yao Zhang, Ziliang Zhuo, Wei Zhong, Manyun Yan",
+      "publication_date": "2026-09-04",
+      "doi": "10.3892/etm.2026.13286",
+      "url": "https://doi.org/10.3892/etm.2026.13286",
+      "source": "OpenAlex / Experimental and Therapeutic Medicine",
+      "abstract": "Neurodegenerative diseases (NDDs) are commonly accompanied by persistent low-grade neuroinflammation, yet current therapies rarely achieve durable disease modification.This review aims to systematically delineate the role of mitochondrial DNA (mtDNA) leakage in linking mitochondrial injury to innate immune activation and to explore its pathological significance in NDDs.A comprehensive review of recent literature on mitochondrial stress, mtDNA release and innate immune signaling was conducted.Evidence was integrated regarding the sources of mtDNA immunogenicity, routes of mtDNA escape, mitophagy-lysosome gating mechanisms and the modulation of leakage baseline by aging and metabolic stress.Accumulating evidence indicates that cytosolic mtDNA is sensed by cyclic GMP-AMP synthase (cGAS) and activates the stimulator of interferon (IFN) genes (STING) pathway signaling through the TANK-binding kinase 1 and IFN regulatory factor 3 axis to induce type I IFN responses and promoting NF-κB-driven inflammatory transcription, thereby enhancing NLRP3 inflammasome priming.Oxidized mtDNA, pore-forming membrane events and ionic imbalance further facilitate NLRP3 assembly and pyroptotic execution, e",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Targeting Reactive Species Stress and Nutrient Sensing to Enhance NK-Cell Function: Mechanistic Strategies for Overcoming Pancreatic Cancer Progression and Resistance Through Supplement Therapy",
+      "authors": "Sara Fanijavadi, Lars Henrik Jensen",
+      "publication_date": "2026-09-04",
+      "doi": "10.3390/ijms27177893",
+      "url": "https://doi.org/10.3390/ijms27177893",
+      "source": "OpenAlex / International Journal of Molecular Sciences",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive disease with limited treatment success and strong resistance to therapy. Natural killer (NK) cells are important immune cells that can destroy cancer cells, and their function can be improved through certain micronutrients and dietary supplements. This review explores a \"triple NK cell boost\" strategy—enhancing NK cell frequency, cancer-killing ability, and ability to reach tumors—using antioxidants and food-derived supplements. These compounds may help reduce the harmful effects of reactive species which can weaken the immune system and support cancer growth. Additionally, we examine the emerging role of nutrient stress and metabolic sensing pathways in shaping NK cell suppression in PDAC. By modulating both redox and nutrient stress responses mechanisms, supplement therapy may help overcome immune evasion and drug resistance in PDAC, offering a promising direction for better prevention and treatment.",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Programmatic access to ICTV virus taxonomy through a public ontology API",
+      "authors": "Philippe Lieutaud, James Alastair McLaughlin, R. Curtis Hendrickson, Romain David, Helen Parkinson",
+      "publication_date": "2026-09-04",
+      "doi": "10.1093/gigascience/giag089",
+      "url": "https://doi.org/10.1093/gigascience/giag089",
+      "source": "OpenAlex / GigaScience",
+      "abstract": "Abstract Background The International Committee on Taxonomy of Viruses (ICTV) is responsible for developing and maintaining a universal virus taxonomy. As the reference framework for organising the viral world, it is essential for virology and related fields. Despite its widespread use in research and public health, programmatic access to ICTV taxonomy has remained limited, posing challenges for integration, versioning, and interoperability across databases and bioinformatics resources requiring up-to-date virus taxonomy. Findings To address this, we developed a public and sustainable solution leveraging ontology-based APIs. All available ICTV Master Species List (MSL) releases, from MSL1 to MSL41, were transformed into a unified, semantically structured ontology comprising more than 195,000 current and historical entities and deployed through the Ontology Lookup Service (OLS). The ontology is automatically rebuilt and republished whenever a new MSL release becomes available. Complementary ICTV-NCBI mappings and helper libraries support integration into downstream systems. Conclusions Together, these resources enable, for the first time, public programmatic retrieval of current and",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Root rot alters rhizosphere fungal community and suppresses soil enzyme activities in Lily",
+      "authors": "Leyan Lyu, Wei Long",
+      "publication_date": "2026-09-03",
+      "doi": "10.1080/26895293.2026.2726424",
+      "url": "https://doi.org/10.1080/26895293.2026.2726424",
+      "source": "OpenAlex / All Life",
+      "abstract": "To clarify the pathogenesis of lily root rot, we compared the rhizosphere fungal community and soil enzyme activities of healthy and diseased Lilium brownii var. viridulum plants from a six-year continuous monoculture field. Urease, sucrase, and acid phosphatase activities were significantly suppressed in diseased rhizosphere. High-throughput ITS sequencing revealed a drastic reduction in fungal richness (Chao1) and a shift in community structure. Ascomycota relative abundance surged, while Basidiomycota and Zygomycota declined sharply. Pathogenic genera (Fusarium, Gibberella, Neonectria, etc.) were significantly enriched, whereas several potentially beneficial genera (Mortierella, Trichoderma, Cladorrhinum, etc.) were depleted. These findings characterize the microecological imbalance underlying lily root rot and provide a foundation for future biocontrol strategies.",
+      "matched_query": "forest pest management outbreak",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Modern approaches and future prospects in lettuce breeding for controlled environment agriculture",
+      "authors": "Ajaya Poudel, Asmita Bhusal, Krishna Bhattarai",
+      "publication_date": "2026-09-03",
+      "doi": "10.3389/fpls.2026.1870041",
+      "url": "https://doi.org/10.3389/fpls.2026.1870041",
+      "source": "OpenAlex / Frontiers in Plant Science",
+      "abstract": "Controlled environment agriculture (CEA) is expanding rapidly as a climate-resilient approach for year-round lettuce production near consumption centers. However, despite its supply chain advantages and high productivity, the economic viability and scalability of CEA-grown lettuce remain constrained by the continued reliance on cultivars developed for variable open-field conditions rather than stable, high-input, and space-limited environments of indoor production systems. This mismatch between existing germplasm and CEA-specific production requirements represents a critical gap that has not been comprehensively addressed in lettuce breeding. This review discusses the need for a paradigm shift in breeding priorities toward cultivars specifically optimized for CEA, with an emphasis on traits that improve output per unit of energy, time, and growing area. Key breeding targets include accelerated growth and shortened crop cycles, enhanced light-use efficiency and photosynthetic performance, improved tolerance to temperature extremes, compact plant architecture for high-density production, optimized shoot-to-root biomass partitioning for hydroponic systems, and resilience to major CEA-",
+      "matched_query": "forest pest management outbreak",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Characterization of Cry2Ab2 resistance in Crocidosema sp. (Lepidoptera: Tortricidae): resistance selection, inheritance, cross‐resistance patterns, and fitness costs",
+      "authors": "Venicius E. Pretto, Jéssica LS Grzybowski, Otavio Liberalesso, Daniela N. Godoy, Arthur Dallanora",
+      "publication_date": "2026-09-03",
+      "doi": "10.1002/ps.71285",
+      "url": "https://doi.org/10.1002/ps.71285",
+      "source": "OpenAlex / Pest Management Science",
+      "abstract": "Abstract BACKGROUND The soybean bud borer, Crocidosema sp., evolved field resistance to Cry1Ac soybean in Brazil, raising concerns regarding the durability of Bacillus thuringiensis (Bt) soybean technologies and potential evolution of resistance to additional Bt proteins. Here, a Cry2Ab2‐resistant strain of Crocidosema sp. was selected and characterized to investigate resistance inheritance, cross‐resistance to Cry1 proteins, and fitness costs. RESULTS Laboratory selection with leaves of Cry2Ab2 soybean generated a resistant strain of Crocidosema sp. exhibiting > 15 000‐fold resistance relative to a susceptible strain. Reciprocal crosses showed resistance ratios of 8.46‐ and 30.17‐fold, suggesting autosomal inheritance, although a maternal effect could not be completely excluded. Effective dominance ( D ML ) indicated incompletely recessive resistance under exposure to Cry2Ab2 in diet‐overlay bioassays ( D ML = 0.08–0.25) and on Cry2Ab2 soybean ( D ML = 0.16–0.26). Backcross analyses indicated a major‐gene contribution, with potential involvement of additional genetic factors. Bioassays with Cry1Ac and Cry1A.105 proteins and Bt soybean revealed no cross‐resistance between Cry2Ab2 a",
+      "matched_query": "pest outbreak management",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "An improved RT-DETR algorithm for small-object detection in UAV aerial images",
+      "authors": "Qiyu Long, Zhixun Liang, Peng Chen, Peng Tang",
+      "publication_date": "2026-09-02",
+      "doi": "10.1038/s41598-026-69495-2",
+      "url": "https://doi.org/10.1038/s41598-026-69495-2",
+      "source": "OpenAlex / Scientific Reports",
+      "abstract": "Abstract To address the challenges of UAV aerial imagery, including the prevalence of small objects, complex background interference, and difficulty in feature extraction that lead to high missed detection rates and compromise detection accuracy in existing RT-DETR algorithms, this paper proposes an improved small-object-oriented detector named MSFE-DETR (Multi-Scale Feature Enhancement DETR). A CMFE (CSP-MultiScale Feature Enhancement) module is integrated into the shallow backbone layers to enhance feature representation of small objects and alleviate feature loss caused by scale and background complexity. In deeper layers of backbone, the C2f module is employed to preserve fine-grained details and improve target–background discrimination, while multi-scale feature fusion further prevents small object information degradation. In addition, Deformable Attention (DAttention) is incorporated to adaptively focus on small target regions, retaining spatial positional information and suppressing background noise. The head integrates MPCA and FSA modules, where MPCA progressively fuses adjacent-scale features to complementarily enhance small object representations and suppress background",
+      "matched_query": "surveillance network optimization pest",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Comparative genomics reveals lineage-associated structural variation and diversification in a barley fungal pathogen.",
+      "authors": "Yu X, Chhetri M, Hasan M, Roberts TH, Zhang P",
+      "publication_date": "2026 Sep 4",
+      "doi": "10.1111/nph.71571",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698138/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Improving fungal biocontrol of Bactrocera dorsalis through binary strain combinations and UV-protective humate formulations.",
+      "authors": "Hao B, Zhang N, Lian D, Feng G, Tu X",
+      "publication_date": "2026 Sep 1",
+      "doi": "10.1002/ps.71247",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681745/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease management surveillance",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Mapping the global threat of Mythimna separata (Walker) and its economic implications for Brazil's agriculture.",
+      "authors": "da Silva Ferreira GD, Marchioro CA",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ps.70954",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42169552/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Efficacy of entomopathogenic fungi against Tuta absoluta (Lepidoptera: Gelechiidae). A systematic review and meta-analysis.",
+      "authors": "Sandala D, Kasoma C, Bohatá A, Bártová V, Lencová J",
+      "publication_date": "2026 Sep",
+      "doi": "10.1016/j.jip.2026.108690",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42435800/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "integrated pest management invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Evaluation of the efficiency of tree injection of Norway spruce against the European spruce bark beetle (Ips typographus) (Coleoptera: Scolytinae).",
+      "authors": "Martinek P, Špoula J, Háp M",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ps.70876",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42057328/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "forest pest management outbreak",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Development of a Droplet-Based RNA Interference Feeding Assay for Neonates of the Citrus Root Weevil Diaprepes abbreviatus.",
+      "authors": "Saini T, Killiny N",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/arch.70213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693635/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "A critical review of biological control strategies for powdery mildew of bhendi (Abelmoschus esculentus L.).",
+      "authors": "Ramachandran L, Muthusamy K, Kumaresan PV, Iruthayasamy J, Lekshmanan DK",
+      "publication_date": "2026 Sep",
+      "doi": "10.1016/j.micpath.2026.108679",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398873/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "pest outbreak management",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Biometric, Physiological, Biochemical, and Molecular Responses of Grapevine to Flavescence Dorée Phytoplasma Infection: A Comprehensive Meta-Analysis.",
+      "authors": "Carli M, Risoli S, Lorenzini G, Pellegrini E, Nali C",
+      "publication_date": "2026 Sep",
+      "doi": "10.1094/PHYTO-04-26-0103-R",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384465/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "pest outbreak management",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Contrasting effects of rice-crayfish co-culture on insect herbivores at field and landscape scales.",
+      "authors": "Xie M, Zhu H, Hua H, Lu X, Ma W",
+      "publication_date": "2026 Sep",
+      "doi": "10.1002/ps.70937",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42155093/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "pest outbreak management",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Pseudomonas chlororaphis YL21 synergistically controls Fusarium crown rot of wheat by reshaping rhizosphere microbiota and reprogramming host defense metabolism.",
+      "authors": "Gao Y, Chen J, Zhang Y, Duan J, Qiu T",
+      "publication_date": "2026 Sep",
+      "doi": "10.1016/j.pestbp.2026.107261",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697639/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Pest management"
+      ]
+    },
+    {
+      "title": "Measuring the composition and availability of human resources for health by sex in 204 countries and territories, 1990-2023, and workforce gaps for universal health coverage: a systematic analysis for the Global Burden of Disease Study 2023.",
+      "authors": "GBD 2023 Human Resources for Health Collaborators",
+      "publication_date": "2026 Sep",
+      "doi": "10.1016/S2468-2667(26)00145-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612647/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Evaluation of amplicon-based nanopore sequencing for foot-and-mouth disease viruses in clinical and environmental samples.",
+      "authors": "Jeon JH, Ryoo S, Kang H, Kim J, Lim D-R",
+      "publication_date": "2026 Sep",
+      "doi": "10.1128/spectrum.00791-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517622/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "plant disease outbreak response",
+      "topic": "outbreak_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Body mass index-associated gut microbial taxa and functional pathways in women with benign and malignant breast disease.",
+      "authors": "Sample JW, Johnson S, Hoskin TL, Redaelli M, Walther-Antonio MR",
+      "publication_date": "2026 Aug 31",
+      "doi": "10.1007/s10549-026-08065-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671637/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "risk mapping invasive species",
+      "topic": "ecological_modelling",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    },
+    {
+      "title": "Species Diversity, Parasitism Rates, Longevity, and Population Dynamics of the Parasitoid Complex Attacking Ophelimus bipolaris in China.",
+      "authors": "Hu J, Li YH, Su JH, Sun JB, Qin GB",
+      "publication_date": "2026 Aug 31",
+      "doi": "10.1007/s13744-026-01432-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671495/",
+      "source": "PubMed",
+      "abstract": "",
+      "matched_query": "biological control invasive pest",
+      "topic": "pest_management",
+      "relevance_score": 0,
+      "labels": [
+        "Other"
+      ]
+    }
+  ]
+}
